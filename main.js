@@ -29,8 +29,7 @@ function adicionarLinha(){
 
     }
 
-    atividades.push(inputNomeAtividade.value);
-    notas.push(parseFloat(inputNotaAtividade.value));
+
 
     let linha="<tr>";
 
